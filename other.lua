@@ -1,2 +1,2 @@
-require('wangzhe')
+require('WangZheMoney-master/wangzhe')
 other()

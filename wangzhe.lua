@@ -18,7 +18,7 @@
 --[ ] 登录到游戏大厅后弹出直播提示或者其它新内容
 
 require("TSLib")
-require("pass")
+require("WangZheMoney-master/pass")
 
 start_time=30*1000
 enter_time=60*1000
