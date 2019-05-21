@@ -564,7 +564,7 @@ end
 function do_all()
 	math.randomseed(tostring(os.time()):reverse():sub(1,6))
 
-	login()
+	login_wurao()
 	maoxian_money() --玩冒险模式刷金币
 	other()
 	query_money()
